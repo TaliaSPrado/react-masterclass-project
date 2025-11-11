@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,7 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# react-masterclass-project
+Um projeto full stack criado com React, TypeScript, Tailwind CSS e Node.js, focado em aprender na prática o ecossistema React e suas integrações modernas.
+>>>>>>> e0849f3e1b068af3c5dc6a25471ed9655fdfac42
